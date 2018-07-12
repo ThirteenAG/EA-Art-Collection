@@ -47,6 +47,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/burnout-paradise-mo
 https://media.contentapi.ea.com/content/dam/gin/common/logos/burnout-paradise-remastered-mono-logo.svg
 https://media.contentapi.ea.com/content/dam/gin/common/logos/burnout-revenge-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/burnout-takedown-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/catwoman-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/command-and-conquer-3-tiberium-wars-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/command-and-conquer-4-tiberian-twilight-mobile-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/command-and-conquer-4-tiberian-twilight-mono-logo.png
@@ -191,6 +192,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-risi
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-vanguard-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-warfighter-logo-white.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mercenaries-2-world-in-flames-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/microbot-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/micromachines-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mirrors-edge-catalyst-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mirrors-edge-mono-logo.png

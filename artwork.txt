@@ -40,6 +40,7 @@ https://media.contentapi.ea.com/content/dam/gin/images/2017/01/burnout-legends-k
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/burnout-paradise-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/burnout-revenge-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/burnout-takedown-keyart.jpg
+https://media.contentapi.ea.com/content/dam/gin/images/2017/01/catwoman-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/command-and-conquer-3-tiberium-wars-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/command-and-conquer-4-tiberian-twilight-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/command-and-conquer-4-tiberian-twilight-mobile-key-art.jpg
@@ -176,6 +177,7 @@ https://media.contentapi.ea.com/content/dam/gin/images/2017/01/medal-of-honor-ri
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/medal-of-honor-vanguard-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/medal-of-honor-warfighter.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/mercenaries-2-world-in-flames-key-art.jpg
+https://media.contentapi.ea.com/content/dam/gin/images/2017/01/microbot-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/mirrors-edge-key.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/mirrors-edge-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/monopoly-keyart.jpg
