@@ -190,6 +190,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-paci
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-rising-sun-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-vanguard-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-warfighter-logo-white.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/mercenaries-2-world-in-flames-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/micromachines-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mirrors-edge-catalyst-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mirrors-edge-mono-logo.png

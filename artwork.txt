@@ -93,7 +93,6 @@ https://media.contentapi.ea.com/content/dam/gin/images/2017/01/fifa-15-key-art.j
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/fifa-15-ultimate-team-mobile-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/fifa-17-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/fifa-18-key-art.jpg
-https://media.contentapi.ea.com/content/dam/gin/images/2017/01/fifa-18-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/fifa-2010-world-cup-mobile-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/fifa-manager-06-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/fifa-manager-07-keyart.jpg
@@ -156,7 +155,6 @@ https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madden-nfl-12-mob
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madden-nfl-13-social-keyart-fb.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madden-nfl-13-social-keyart-ios.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madden-nfl-18-key-art.jpg
-https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madden-nfl-18-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madden-nfl-25-mobile-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madden16-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madnflarcade-keyart.jpg
@@ -177,6 +175,7 @@ https://media.contentapi.ea.com/content/dam/gin/images/2017/01/medal-of-honor-pa
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/medal-of-honor-rising-sun-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/medal-of-honor-vanguard-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/medal-of-honor-warfighter.jpg
+https://media.contentapi.ea.com/content/dam/gin/images/2017/01/mercenaries-2-world-in-flames-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/mirrors-edge-key.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/mirrors-edge-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/monopoly-keyart.jpg
@@ -291,7 +290,6 @@ https://media.contentapi.ea.com/content/dam/gin/images/2017/01/ssx-blur-keyart-m
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/ssx-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/ssx-on-tour-keyart-min.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/ssx-tricky-keyart.jpg
-https://media.contentapi.ea.com/content/dam/gin/images/2017/01/star-wars-battlefront-2-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/star-wars-battlefront-2-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/star-wars-battlefront-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/star-wars-galaxy-of-heroes-key-art.jpg
