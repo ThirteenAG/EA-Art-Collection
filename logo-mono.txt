@@ -245,6 +245,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/nfl-street-3-mono-l
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfl-street-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfl-tour-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-carbon-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-carbon-own-the-city-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-hot-pursuit-2-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-hot-pursuit-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-mono-logo.png
