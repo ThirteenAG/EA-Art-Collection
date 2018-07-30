@@ -278,6 +278,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/mass-effect-infiltr
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mass-effect-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mass-effect-mono-citadel-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mass-effect-pinnacle-station-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/mass-effect-trilogy-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mass_effect_andromeda_logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/me-and-my-katamari-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-airborne-mono-logo.png
