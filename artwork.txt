@@ -539,6 +539,7 @@ https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-house-pa
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-life-stories-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-livin-large-keyart.jpg
+https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-makin-magic-keyart.png
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-medieval-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-mobile-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-pet-stories-keyart.jpg
