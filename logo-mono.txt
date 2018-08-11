@@ -380,6 +380,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-hot-pursuit-mon
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-most-wanted-2012-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-nitro-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-nitro-x-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-no-limits-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-prostreet-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-rivals-mono-logo.png
