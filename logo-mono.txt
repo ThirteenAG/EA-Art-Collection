@@ -79,6 +79,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/burnout-revenge-mon
 https://media.contentapi.ea.com/content/dam/gin/common/logos/burnout-takedown-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/catwoman-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/celebrity-sports-showdown-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/clue-secrets-and-spies-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/command-and-conquer-3-kanes-wrath-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/command-and-conquer-3-tiberium-wars-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/command-and-conquer-4-tiberian-twilight-mobile-mono-logo.png
@@ -105,6 +106,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/crysis-2-mono-logo.
 https://media.contentapi.ea.com/content/dam/gin/common/logos/crysis-2-nano-edition-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/crysis-3-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/crysis-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/crysis-special-edition-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/crysis-warhead-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/dantes-inferno-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/darkspore-mono-logo.png
@@ -142,6 +144,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/dungeon-keeper-mono
 https://media.contentapi.ea.com/content/dam/gin/common/logos/ea-game-box-nbalive19-teaser-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/ea-playground-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/facebreaker-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/fancy-pants-adventures-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fe-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-03-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-04-mono-logo.png
@@ -206,6 +209,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/fight-night-round-4
 https://media.contentapi.ea.com/content/dam/gin/common/logos/freedom-fighters-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/freekstyle-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fuse-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/gatling-gears-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/gi-joe-the-rise-of-cobra-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/global-operations-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/goldeneye-rogue-agent-logo.png
@@ -282,6 +286,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/mass-effect-trilogy
 https://media.contentapi.ea.com/content/dam/gin/common/logos/mass_effect_andromeda_logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/me-and-my-katamari-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-airborne-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-allied-assault-war-chest-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-european-assault-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-frontline-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/medal-of-honor-heroes-2-logo-white.png
@@ -314,6 +319,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/nascar-08-mono-logo
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nascar-09-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-elite-11-mobile-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-jam-mobile-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-jam-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-jam-on-fire-edition-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-live-04-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-live-05-mono-logo.png
@@ -420,6 +426,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/pandemonium-mono-lo
 https://media.contentapi.ea.com/content/dam/gin/common/logos/peggle-2-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/peggle-blast-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/pga-tour-96-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/pictureka-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/plants-vs-zombies-2-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/plants-vs-zombies-garden-warefare-2-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/plants-vs-zombies-garden-warefare-mono-logo.png
@@ -427,6 +434,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/plants-vs-zombies-h
 https://media.contentapi.ea.com/content/dam/gin/common/logos/plants-vs-zombies-mobile-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/plants-vs-zombies-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/pogo-island-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/poker-for-dummies-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/rail-simulator-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/real-racing-2-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/real-racing-3-mono-logo.png
@@ -644,6 +652,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/we-love-katamari-mo
 https://media.contentapi.ea.com/content/dam/gin/common/logos/wing-commander-arena-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/wolfenstein-rpg-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/world-tour-golf-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/worms-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/x-games-pro-boarder-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/x-squad-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/yahtzee-adventures-mono-logo.png
