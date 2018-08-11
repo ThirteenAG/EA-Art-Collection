@@ -192,6 +192,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-manager-12-mon
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-manager-13-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-manager-14-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-mobile-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-online-3-mono-logo.svg
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-soccer-2002-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-street-1-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/fifa-street-2-mono-logo.png
@@ -317,6 +318,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/nascar-06-total-tea
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nascar-07-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nascar-08-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nascar-09-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/nascar-kart-racing-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-elite-11-mobile-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-jam-mobile-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-jam-mono-logo.png
@@ -393,6 +395,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-rivals-mono-log
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-shift-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-the-run-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-undercover-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-world-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nhl-04-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nhl-05-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nhl-06-mono-logo.png
@@ -436,6 +439,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/plants-vs-zombies-m
 https://media.contentapi.ea.com/content/dam/gin/common/logos/pogo-island-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/poker-for-dummies-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/rail-simulator-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/rango-the-video-game-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/real-racing-2-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/real-racing-3-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/reckless-racing-mono-logo.png
