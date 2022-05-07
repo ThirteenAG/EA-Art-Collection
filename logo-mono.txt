@@ -229,6 +229,14 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/harry-potter-sorcer
 https://media.contentapi.ea.com/content/dam/gin/common/logos/hellgate-london-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/heroes-of-dragon-age-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/ironforce-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/james-bond-agent-under-fire-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/james-bond-agent-under-fire-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/james-bond-everything-or-nothing-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/james-bond-everything-or-nothing-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/james-bond-from-russia-with-love-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/james-bond-from-russia-with-love-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/james-bond-nightfire-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/james-bond-nightfire-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/jewel-quest-mysteries-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/kingdoms-of-amalur-reckoning-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/knights-of-honor-mono-logo.png
