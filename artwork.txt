@@ -206,6 +206,10 @@ https://media.contentapi.ea.com/content/dam/gin/images/2017/01/harry-potter-sorc
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/hellgate-london-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/heroes-of-dragon-age-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/jewel-quest-mysteries-keyart.jpg
+https://media.contentapi.ea.com/content/dam/gin/images/2017/01/james-bond-agent-under-fire-keyart.jpg
+https://media.contentapi.ea.com/content/dam/gin/images/2017/01/james-bond-nightfire-key-art.jpg
+https://media.contentapi.ea.com/content/dam/gin/images/2017/01/james-bond-everything-or-nothing-key-art.jpg
+https://media.contentapi.ea.com/content/dam/gin/images/2017/01/james-bond-from-russia-with-love-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/kingdoms-of-amalur-reckoning-key-art.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/knights-of-honor-keyart.jpg
 https://media.contentapi.ea.com/content/dam/gin/images/2017/01/left-4-dead-2-keyart.jpg
