@@ -353,6 +353,8 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-street-3-mono-l
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-street-homecourt-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-street-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-street-showdown-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/ncaa-basketball-09-mono-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/ncaa-basketball-10-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/ncaa-football-06-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/ncaa-football-07-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/ncaa-football-08-mono-logo.png
